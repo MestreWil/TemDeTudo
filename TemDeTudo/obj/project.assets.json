@@ -10319,19 +10319,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rroliveira.FSPOA\\.nuget\\packages\\": {}
+    "C:\\Users\\182200098\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rroliveira.FSPOA\\source\\repos\\TemDeTudo\\TemDeTudo\\TemDeTudo.csproj",
+      "projectUniqueName": "C:\\Users\\182200098\\Source\\Repos\\TemDeTudo\\TemDeTudo\\TemDeTudo.csproj",
       "projectName": "TemDeTudo",
-      "projectPath": "C:\\Users\\rroliveira.FSPOA\\source\\repos\\TemDeTudo\\TemDeTudo\\TemDeTudo.csproj",
-      "packagesPath": "C:\\Users\\rroliveira.FSPOA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rroliveira.FSPOA\\source\\repos\\TemDeTudo\\TemDeTudo\\obj\\",
+      "projectPath": "C:\\Users\\182200098\\Source\\Repos\\TemDeTudo\\TemDeTudo\\TemDeTudo.csproj",
+      "packagesPath": "C:\\Users\\182200098\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\182200098\\Source\\Repos\\TemDeTudo\\TemDeTudo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rroliveira.FSPOA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\182200098\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10391,7 +10391,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
